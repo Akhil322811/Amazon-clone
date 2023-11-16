@@ -1,0 +1,48 @@
+.nav{
+    background-color:rgb(31, 29, 29);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+
+}
+.am{
+    display: flex;
+    flex-direction: row;
+   
+}
+.am1{
+   height: 40px;
+   width: 500px;
+    border-top-left-radius: 8px; 
+    border-bottom-left-radius: 8px;
+}
+.am2{
+    height: 40px;
+     background-color: rgb(255, 208, 0);
+      border-width:solid 0px; 
+      border-width: white;
+      border-bottom-right-radius:8px ;
+      border-top-right-radius:8px ;
+      border: 0px;
+}
+.parentContainer{
+    background-color: rgb(221, 215, 215);
+    width: 100vw !important; 
+    height: 100vh;
+    overflow-y: scroll;
+    
+}
+
+/* .marginPropToCards{
+    margin: 5px;
+} */
+/* @media screen and (min-width:768px) and (max-width:992px) {
+    .marginPropToCards{
+        margin-top: 50px !important;
+    }
+
+} */
+.imagesWidth{
+    width: 300px;
+}
